@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto podcast import\n"
+"POT-Creation-Date: 2024-02-11 08:40+0200\n"
+"PO-Revision-Date: 2024-02-11 08:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: auto-podcast-import.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions.php:92 functions.php:146
+msgid "Waiting for run"
+msgstr "ממתין לריצה"
+
+#. Plugin Name of the plugin/theme
+#: inc/admin_menu.php:35 inc/admin_menu.php:36
+msgid "Auto podcast import"
+msgstr "ייבוא פודקאסט אוטומטי"
+
+#: inc/admin_menu.php:56 inc/admin_menu.php:69 inc/admin_menu.php:151
+#: inc/admin_menu.php:166 inc/admin_menu.php:196 inc/admin_menu.php:203
+#: inc/admin_menu.php:239 inc/admin_menu.php:246
+msgid "Invailed request"
+msgstr "בקשה לא חוקית"
+
+#: inc/admin_menu.php:94 inc/admin_menu.php:211 inc/admin_menu.php:256
+msgid "Invailed feed post"
+msgstr "פיד לא חוקי"
+
+#: inc/admin_menu.php:100
+msgid "Invailed Url"
+msgstr "כתובת אתר שגויה"
+
+#: inc/admin_menu.php:107
+msgid "Unknown post type"
+msgstr "סוג פוסט לא ידוע"
+
+#: inc/admin_menu.php:113
+msgid "Unknown recurrence slug"
+msgstr "מזהה חזרה לא ידוע"
+
+#: inc/admin_menu.php:120
+msgid "Unknown author"
+msgstr "משתמש לא ידוע"
+
+#: inc/admin_menu.php:147 inc/admin_menu.php:181 inc/admin_menu.php:568
+#: inc/admin_menu.php:616
+msgid "Saved."
+msgstr "נשמר."
+
+#: inc/admin_menu.php:222
+msgid "Deleted."
+msgstr "נמחק."
+
+#: inc/admin_menu.php:269
+msgid "Imported."
+msgstr "יובא."
+
+#: inc/admin_menu.php:318
+msgid "Feeds list"
+msgstr "רשימת פידים"
+
+#: inc/admin_menu.php:319
+msgid "Add feed"
+msgstr "הוספת פיד"
+
+#: inc/admin_menu.php:320 inc/admin_menu.php:585
+msgid "Settings"
+msgstr "הגדרות"
+
+#: inc/admin_menu.php:333
+msgid "Unkown feed post"
+msgstr "פיד לא חוקי"
+
+#: inc/admin_menu.php:368
+msgid "No feeds found, please add some to start"
+msgstr "לא נמצאו פידים, אנא הוסיפו כמה"
+
+#: inc/admin_menu.php:378
+msgid "ID"
+msgstr "מזהה"
+
+#: inc/admin_menu.php:379 inc/admin_menu.php:466
+msgid "Feed title"
+msgstr "כותרת פיד"
+
+#: inc/admin_menu.php:380 inc/admin_menu.php:482
+msgid "Post type"
+msgstr "סוג הפוסט"
+
+#: inc/admin_menu.php:381 inc/admin_menu.php:505
+msgid "Recurrence"
+msgstr "חזרה"
+
+#: inc/admin_menu.php:382
+msgid "Last run"
+msgstr "ריצה אחרונה"
+
+#: inc/admin_menu.php:383
+msgid "Last error"
+msgstr "שגיאה אחרונה"
+
+#: inc/admin_menu.php:384 inc/admin_menu.php:402
+msgid "Run now"
+msgstr "הפעל עכשיו"
+
+#: inc/admin_menu.php:385 inc/admin_menu.php:403
+msgid "Edit"
+msgstr "עריכה"
+
+#: inc/admin_menu.php:386 inc/admin_menu.php:404
+msgid "Delete"
+msgstr "מחיקה"
+
+#: inc/admin_menu.php:404
+msgid "Are you sure to delete?"
+msgstr "האם אתה בטוח שברצונך למחוק?"
+
+#: inc/admin_menu.php:448
+msgid "Add new feed"
+msgstr "הוספת פיד חדש"
+
+#: inc/admin_menu.php:450
+msgid "Edit feed"
+msgstr "עריכת פיד"
+
+#: inc/admin_menu.php:474
+msgid "Feed url"
+msgstr "קישור הפיד"
+
+#: inc/admin_menu.php:494
+msgid "Post status"
+msgstr "מצב פוסט"
+
+#: inc/admin_menu.php:498
+msgid "Publish"
+msgstr "פרסום"
+
+#: inc/admin_menu.php:499
+msgid "Draft"
+msgstr "טיוטה"
+
+#: inc/admin_menu.php:509
+msgid "Hourly"
+msgstr "שעתי"
+
+#: inc/admin_menu.php:510
+msgid "Daily"
+msgstr "יומי"
+
+#: inc/admin_menu.php:511
+msgid "Weekly"
+msgstr "שבועי"
+
+#: inc/admin_menu.php:512
+msgid "Monthly"
+msgstr "חודשי"
+
+#: inc/admin_menu.php:522
+msgid "Post author"
+msgstr "מחבר הפוסט"
+
+#: inc/admin_menu.php:539
+msgid "Force update existing posts"
+msgstr "כפה עדכון של פוסטים קיימים"
+
+#: inc/admin_menu.php:543
+msgid "Yes"
+msgstr "כן"
+
+#: inc/admin_menu.php:544
+msgid "No"
+msgstr "לא"
+
+#: inc/admin_menu.php:552
+msgid "Insert audio player in post content"
+msgstr "הוסף נגן שמע בתוכן הפוסט"
+
+#: inc/admin_menu.php:568 inc/admin_menu.php:616
+msgid "Error, please try later."
+msgstr "אירעה שגיאה, אנא נסה/י מאוחר יותר."
+
+#: inc/admin_menu.php:568 inc/admin_menu.php:616
+msgid "Saving settings, please wait!"
+msgstr "שומר הגדרות, אנא המתן!"
+
+#: inc/admin_menu.php:571 inc/admin_menu.php:619
+msgid "Save"
+msgstr "שמירה"
+
+#: inc/admin_menu.php:597
+msgid "Optimze XML render"
+msgstr "ייעול טעינת XML"
+
+#: inc/admin_menu.php:602
+msgid ""
+"By default, load remote XML and update WordPress posts done in the same "
+"action, this option will separate them"
+msgstr ""
+"כברירת מחדל, התוסף מרנדר את ה XML ומעבד את הפוסטים באותה קריאה. אפשרות זו "
+"תפצל את זה לשתי קריאות"
+
+#: inc/post_type.php:34
+msgctxt "Post type general name"
+msgid "Podcasts"
+msgstr "פודקאסטים"
+
+#: inc/post_type.php:35
+msgctxt "Post type singular name"
+msgid "Podcast"
+msgstr "פודקאסט"
+
+#: inc/post_type.php:36
+msgctxt "Admin Menu text"
+msgid "Podcasts"
+msgstr "פודקאסטים"
+
+#: inc/post_type.php:37
+msgctxt "Add New on Toolbar"
+msgid "Podcast"
+msgstr "פודקאסט"
+
+#: inc/post_type.php:38
+msgid "Add New"
+msgstr "הוסף חדש"
+
+#: inc/post_type.php:39
+msgid "Add New Podcast"
+msgstr "הוסף פודקאסט חדש"
+
+#: inc/post_type.php:40
+msgid "New Podcast"
+msgstr "פודקאסט חדש"
+
+#: inc/post_type.php:41
+msgid "Edit Podcast"
+msgstr "ערוך פודקאסט"
+
+#: inc/post_type.php:42
+msgid "View Podcast"
+msgstr "צפייה בפודקאסט"
+
+#: inc/post_type.php:43
+msgid "All Podcasts"
+msgstr "כל הפודקאסטים"
+
+#: inc/post_type.php:44
+msgid "Search Podcast"
+msgstr "חפש פודקאסט"
+
+#: inc/post_type.php:45
+msgid "Parent Podcast:"
+msgstr "פודקאסט אב:"
+
+#: inc/post_type.php:46
+msgid "No Podcasts found."
+msgstr "לא נמצאו פודקאסטים."
+
+#: inc/post_type.php:47
+msgid "No Podcasts found in Trash."
+msgstr "לא נמצאו פודקאסטים בפח."
+
+#: main.php:75
+#, php-format
+msgid "Auto podcast import requires minimum PHP version %s."
+msgstr "ייבוא פודקאסט דורש גרסת PHP מינימלית %s."
+
+#: main.php:77
+#, php-format
+msgid "Auto podcast import requires minimum WordPress version %s+."
+msgstr " דורש גרסת וורדפרס מינימלית %s+."
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.com/plugins/auto-podcast-import"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Import your podcast feed, automatically from any supported podcast provider."
+msgstr "ייבא את עדכון הפודקאסט שלך, באופן אוטומטי מכל ספק פודקאסטים נתמך."
+
+#. Author of the plugin/theme
+msgid "R2K TEAM"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.r2k.co.il/"
+msgstr ""

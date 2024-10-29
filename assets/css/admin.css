@@ -1,0 +1,30 @@
+.aupi_container h2{
+    font-weight: 700; margin-bottom: 30px;
+}
+.aupi-form-group{margin-bottom: 15px;}
+.aupi-form-group label{display: flex;     align-items: center;}
+.aupi-form-group span{margin-inline-end: 20px; width:120px}
+.aupi_ajaxing{
+    font-weight: 700; margin-bottom: 20px;
+}
+
+.aupi_container{margin-top: 30px;}
+
+.aupi_tabs{
+    padding: 0 10px;
+    display: flex; gap: 10px; border-bottom: 1px solid #c3c4c7; margin-bottom: 30px;
+}
+.aupi_tabs a{
+    position: relative;
+    top: 1px;
+    padding: 5px 10px;    border: 1px solid #c3c4c7;
+    background: #dcdcde; border-bottom: 0;
+    color: #50575e;    font-size: 14px; text-decoration: none;
+}
+.aupi_tabs a.current{
+    border-bottom: 1px solid #f0f0f1;
+    background: #f0f0f1;
+    color: #000;
+}
+.aupi_loading{display: none;}
+.aupi_loading.active{display: inline-block; margin-inline-start: 10px; vertical-align: middle; width: 25px; height: auto;}

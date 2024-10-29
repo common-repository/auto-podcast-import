@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-02-11 08:42+0200\n"
+"PO-Revision-Date: 2024-02-11 08:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: .\n"
+
+#: functions.php:92 functions.php:146
+msgid "Waiting for run"
+msgstr "في انتظار التشغيل"
+
+#. Plugin Name of the plugin/theme
+#: inc/admin_menu.php:35 inc/admin_menu.php:36
+msgid "Auto podcast import"
+msgstr "استيراد البودكاست التلقائي"
+
+#: inc/admin_menu.php:56 inc/admin_menu.php:69 inc/admin_menu.php:151
+#: inc/admin_menu.php:166 inc/admin_menu.php:196 inc/admin_menu.php:203
+#: inc/admin_menu.php:239 inc/admin_menu.php:246
+msgid "Invailed request"
+msgstr "طلب غير صالح"
+
+#: inc/admin_menu.php:94 inc/admin_menu.php:211 inc/admin_menu.php:256
+msgid "Invailed feed post"
+msgstr ""
+
+#: inc/admin_menu.php:100
+msgid "Invailed Url"
+msgstr "الرابط غير صالح"
+
+#: inc/admin_menu.php:107
+msgid "Unknown post type"
+msgstr "نوع محتوى غير معرف"
+
+#: inc/admin_menu.php:113
+msgid "Unknown recurrence slug"
+msgstr "اعداد التكرار غير معرف"
+
+#: inc/admin_menu.php:120
+msgid "Unknown author"
+msgstr "الناشر غير معرف"
+
+#: inc/admin_menu.php:147 inc/admin_menu.php:181 inc/admin_menu.php:568
+#: inc/admin_menu.php:616
+msgid "Saved."
+msgstr "تم الحفظ."
+
+#: inc/admin_menu.php:222
+msgid "Deleted."
+msgstr "تم الحذف."
+
+#: inc/admin_menu.php:269
+msgid "Imported."
+msgstr "تم الاستيراد"
+
+#: inc/admin_menu.php:318
+msgid "Feeds list"
+msgstr "قائمة المحتوى."
+
+#: inc/admin_menu.php:319
+msgid "Add feed"
+msgstr "اضافة محتوى"
+
+#: inc/admin_menu.php:320 inc/admin_menu.php:585
+msgid "Settings"
+msgstr "اعدادات"
+
+#: inc/admin_menu.php:333
+msgid "Unkown feed post"
+msgstr "لم يتم العثور على المحتوى المطلوب"
+
+#: inc/admin_menu.php:368
+msgid "No feeds found, please add some to start"
+msgstr "لم يتم العثور على محتويات، يرجى اضافة محتوى البودكاست"
+
+#: inc/admin_menu.php:378
+msgid "ID"
+msgstr "معرف"
+
+#: inc/admin_menu.php:379 inc/admin_menu.php:466
+msgid "Feed title"
+msgstr "العنوان"
+
+#: inc/admin_menu.php:380 inc/admin_menu.php:482
+msgid "Post type"
+msgstr "نوع المحتوى"
+
+#: inc/admin_menu.php:381 inc/admin_menu.php:505
+msgid "Recurrence"
+msgstr "تكرار"
+
+#: inc/admin_menu.php:382
+msgid "Last run"
+msgstr "التشغيل الاخير"
+
+#: inc/admin_menu.php:383
+msgid "Last error"
+msgstr "الخطأ الأخير"
+
+#: inc/admin_menu.php:384 inc/admin_menu.php:402
+msgid "Run now"
+msgstr "تشغيل الان"
+
+#: inc/admin_menu.php:385 inc/admin_menu.php:403
+msgid "Edit"
+msgstr "تحرير"
+
+#: inc/admin_menu.php:386 inc/admin_menu.php:404
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/admin_menu.php:404
+msgid "Are you sure to delete?"
+msgstr "هل انت متاكد من الحذف؟"
+
+#: inc/admin_menu.php:448
+msgid "Add new feed"
+msgstr "اضافة محتوى جديد"
+
+#: inc/admin_menu.php:450
+msgid "Edit feed"
+msgstr "اضافة محتوى"
+
+#: inc/admin_menu.php:474
+msgid "Feed url"
+msgstr "رابط المحتوى"
+
+#: inc/admin_menu.php:494
+msgid "Post status"
+msgstr "الحالة"
+
+#: inc/admin_menu.php:498
+msgid "Publish"
+msgstr "نشر"
+
+#: inc/admin_menu.php:499
+msgid "Draft"
+msgstr "مسودة"
+
+#: inc/admin_menu.php:509
+msgid "Hourly"
+msgstr "كل ساعة"
+
+#: inc/admin_menu.php:510
+msgid "Daily"
+msgstr "يومي"
+
+#: inc/admin_menu.php:511
+msgid "Weekly"
+msgstr "اسبوعي"
+
+#: inc/admin_menu.php:512
+msgid "Monthly"
+msgstr "شهري"
+
+#: inc/admin_menu.php:522
+msgid "Post author"
+msgstr "الناشر"
+
+#: inc/admin_menu.php:539
+msgid "Force update existing posts"
+msgstr "تحديث بودكاستات موجدة مسبقا"
+
+#: inc/admin_menu.php:543
+msgid "Yes"
+msgstr "نعم"
+
+#: inc/admin_menu.php:544
+msgid "No"
+msgstr "لا"
+
+#: inc/admin_menu.php:552
+msgid "Insert audio player in post content"
+msgstr "أدخل مشغل الصوت في محرر ووردبرس"
+
+#: inc/admin_menu.php:568 inc/admin_menu.php:616
+msgid "Error, please try later."
+msgstr "حصل خطأ ما، يرجى المحاولة مرة اخرى."
+
+#: inc/admin_menu.php:568 inc/admin_menu.php:616
+msgid "Saving settings, please wait!"
+msgstr "يتم الحفظ، يرجى الانتظار!"
+
+#: inc/admin_menu.php:571 inc/admin_menu.php:619
+msgid "Save"
+msgstr "حفظ"
+
+#: inc/admin_menu.php:597
+msgid "Optimze XML render"
+msgstr "تحسين استيراد XML"
+
+#: inc/admin_menu.php:602
+msgid ""
+"By default, load remote XML and update WordPress posts done in the same "
+"action, this option will separate them"
+msgstr ""
+"بشكل اولي، عملية استيراد XML وتحديث منشورات WordPress تتم بنفس اللحظة، هذا "
+"الخيار سيقوم بفصلها"
+
+#: inc/post_type.php:34
+msgctxt "Post type general name"
+msgid "Podcasts"
+msgstr "بودكاستات"
+
+#: inc/post_type.php:35
+msgctxt "Post type singular name"
+msgid "Podcast"
+msgstr "بودكاست"
+
+#: inc/post_type.php:36
+msgctxt "Admin Menu text"
+msgid "Podcasts"
+msgstr "بودكاستات"
+
+#: inc/post_type.php:37
+msgctxt "Add New on Toolbar"
+msgid "Podcast"
+msgstr "بودكاست"
+
+#: inc/post_type.php:38
+msgid "Add New"
+msgstr "اضافة"
+
+#: inc/post_type.php:39
+msgid "Add New Podcast"
+msgstr ""
+
+#: inc/post_type.php:40
+msgid "New Podcast"
+msgstr "اضافة بودكاست"
+
+#: inc/post_type.php:41
+msgid "Edit Podcast"
+msgstr "تعديل بودكاست"
+
+#: inc/post_type.php:42
+msgid "View Podcast"
+msgstr "مشاهدة بوكاست"
+
+#: inc/post_type.php:43
+msgid "All Podcasts"
+msgstr "جميع البودكاستات"
+
+#: inc/post_type.php:44
+msgid "Search Podcast"
+msgstr "بحث عن بودكاست"
+
+#: inc/post_type.php:45
+msgid "Parent Podcast:"
+msgstr ""
+
+#: inc/post_type.php:46
+msgid "No Podcasts found."
+msgstr "لم يتم العثور على بودكاستات."
+
+#: inc/post_type.php:47
+msgid "No Podcasts found in Trash."
+msgstr "لم يتم العثور على بودكاستات."
+
+#: main.php:75
+#, php-format
+msgid "Auto podcast import requires minimum PHP version %s."
+msgstr ""
+
+#: main.php:77
+#, php-format
+msgid "Auto podcast import requires minimum WordPress version %s+."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.com/plugins/auto-podcast-import"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Import your podcast feed, automatically from any supported podcast provider."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "R2K TEAM"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.r2k.co.il/"
+msgstr ""
